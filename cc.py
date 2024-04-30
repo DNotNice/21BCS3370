@@ -1,5 +1,5 @@
 thisdict = {
-  "Name": "Devansh Pandey",
-   "UID": "21BCS3370"
+  "Name": "Aryan Rawat",
+   "UID": "21BCS5621"
 }
 print(thisdict);
